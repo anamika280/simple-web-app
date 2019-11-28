@@ -204,8 +204,6 @@
         <name>DESKTOP-KPIRKO0-releases</name>
         <url>http://192.168.1.108:8081/artifactory/libs-release</url>
     </repository>
-</distributionManagement>
-<distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-KPIRKO0-snapshots</name>
